@@ -2,7 +2,9 @@
   <h1>🙋‍♂️ Olá, eu sou o Max Godoy!</h1>
   <i>Estudante de <a href="https://www.fateczl.edu.br/arquivos/Grade%20DSM.pdf">Desenvolvimento de Software Multiplataforma </a> – FATEC Zona Sul</i>
   <br>
-  <b>"O futuro não improvisa!"</b>
+  <br>
+  <br>
+                  <b>"O futuro não improvisa!"</b>
 </p>
 
 <p align="center">
