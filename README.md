@@ -1,16 +1,18 @@
 <p align="center">
-  <h1>🙋‍♂️ Olá, eu sou o Max Godoy!</h1>
-  <i>Estudante de <a href="https://www.fateczl.edu.br/arquivos/Grade%20DSM.pdf">Desenvolvimento de Software Multiplataforma </a> – FATEC | Zona Sul</i>
-  
- <p align="center">
-  <br>
-  <br>
-  <b><i>"O futuro não improvisa!"</i></b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Engenharia%20de%20Dados&fontSize=30&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Engenharia%20de%20Dados&fontSize=30&animation=fadeIn&fontAlignY=35" />
+  <h1>🙋‍♂️ Olá, eu sou o Max Godoy!</h1>
+  <i>Estudante de <a href="https://www.fateczl.edu.br/arquivos/Grade%20DSM.pdf">Desenvolvimento de Software Multiplataforma</a> – FATEC | Zona Sul</i>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%22O+futuro+n%C3%A3o+improvisa!%22;Business-First%2C+Code-Second;Idealizador+do+BASE+LAB" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3ZzR3eHByeHByeHByeHByeHByeHByeHByeHByeHByJnB2PTE/3o7TKMGpxS7SJf6Gv6/giphy.gif" width="100">
+</p>
+
 ---
 
 ### 🚀 Sobre mim
