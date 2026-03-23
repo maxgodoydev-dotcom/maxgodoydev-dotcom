@@ -20,7 +20,7 @@
 
 - 💻 Foco atual: MySQL, MariaDB, PostgreSQL e Python.
 
-- 🌐 **Comunidade:** Idealizador e Co-líder do [**BASE LAB | FATEC**](https://discord.gg/EXmrdRcw), um ecossistema no Discord focado em mentorias, revisões técnicas e colaboração em projetos.
+- 🌐 **Comunidade:** Idealizador e Co-líder do [**BASE LAB | FATEC**](https://discord.gg/EXmrdRcw), um ecossistema no Discord focado em aprendizado guiado, troca de conhecimento, mentorias e colaboração prática em projetos.
 
 - 🤝 **Soft Skills:** Comunicação assertiva, organização, proatividade e dinamismo em equipe.
 
