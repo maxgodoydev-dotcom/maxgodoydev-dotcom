@@ -4,7 +4,7 @@
 
 <p align="center">
   <h1>🙋‍♂️ Olá, eu sou o Max Godoy!</h1>
-  <i>Estudante de <a href="https://www.fateczl.edu.br/arquivos/Grade%20DSM.pdf">Desenvolvimento de Software Multiplataforma</a> – FATEC | Zona Sul</i>
+  <i>Estudante de <a href="https://www.fateczl.edu.br/arquivos/Grade%20DSM.pdf">Desenvolvimento de Software Multiplataforma</a> – FATEC </i>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%22O+futuro+n%C3%A3o+improvisa!%22;Business-First%2C+Code-Second;Idealizador+do+BASE+LAB" alt="Typing SVG" />
 </p>
@@ -17,7 +17,7 @@
 
 ### 🚀 Sobre mim
 
-- 📚 **Formação:** Graduando em **DSM na FATEC Zona Sul**.
+- 📚 **Formação:** Graduando em **DSM na FATEC**.
 
 - 🎯 **Objetivos:** MySQL, MariaDB, PostgreSQL e Python.
 
