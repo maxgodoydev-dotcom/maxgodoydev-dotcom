@@ -1,10 +1,11 @@
 <p align="center">
   <h1>🙋‍♂️ Olá, eu sou o Max Godoy!</h1>
   <i>Estudante de <a href="https://www.fateczl.edu.br/arquivos/Grade%20DSM.pdf">Desenvolvimento de Software Multiplataforma </a> – FATEC Zona Sul</i>
+  
+ <p align="center">
   <br>
   <br>
-  <br>
-                  <b>"O futuro não improvisa!"</b>
+  <b>"O futuro não improvisa!"</b>
 </p>
 
 <p align="center">
@@ -17,7 +18,7 @@
 
 - 📚 **Formação:** Graduando em **DSM na FATEC Zona Sul**.
 
-- 🏗️ **Arquitetura & Dados:** Estudo (**MariaDB, PostgreSQL, MySQL**) e modelagem estruturada (DER/UML).
+- 💻 Foco atual: MySQL, MariaDB, PostgreSQL e Python.
 
 - 🌐 **Comunidade:** Idealizador e Co-líder do [**BASE LAB | FATEC**](https://discord.gg/EXmrdRcw), um ecossistema no Discord focado em mentorias, revisões técnicas e colaboração em projetos.
 
