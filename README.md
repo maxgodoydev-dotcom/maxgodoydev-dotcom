@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maxgodoydev-dotcom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Engenharia%20de%20Dados&fontSize=30&animation=fadeIn&fontAlignY=35" />
 </p>
-
 ---
 
 ### 🚀 Sobre mim
