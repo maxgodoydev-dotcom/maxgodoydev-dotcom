@@ -18,17 +18,17 @@
 
 - 📚 **Formação:** Graduando em **DSM na FATEC Zona Sul**.
 
-- 💻 Foco atual: MySQL, MariaDB, PostgreSQL e Python.
+- 🎯 **Objetivos:** MySQL, MariaDB, PostgreSQL e Python.
 
 - 🌐 **Comunidade:** Idealizador e Co-líder do [**BASE LAB | FATEC**](https://discord.gg/EXmrdRcw), um ecossistema no Discord focado em aprendizado guiado, troca de conhecimento, mentorias e colaboração prática em projetos.
 
-- 🤝 **Soft Skills:** Comunicação assertiva, organização, proatividade e dinamismo em equipe.
+- 🤝 **Soft Skills:** Comunicação, organização, trabalho em equipe, colaboração, proatividade e dinamismo.
 
 ---
 
-### 🎯 Foco e Atuação
+### 🎯 Foco Profissional
 
-* **Modelagem & Regras de Negócio:** Especial interesse em mapear fluxos e estruturar a lógica sistêmica antes da implementação do código.
+* **Modelagem & Regras de Negócio:** Interesse em mapear fluxos e estruturar a lógica sistêmica antes da implementação do código.
 * **Engenharia de Software:** Aplicação de conceitos de integridade e performance na camada de dados e processos de software.
 * **Business-First:** Foco em utilizar a tecnologia como ponte para resolver problemas reais de negócio.
 ---
