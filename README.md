@@ -1,6 +1,6 @@
 <p align="center">
   <h1>🙋‍♂️ Olá, eu sou o Max Godoy!</h1>
-  <i>Estudante de <a href="https://www.fateczl.edu.br/arquivos/Grade%20DSM.pdf">Desenvolvimento de Software Multiplataforma (Grade DSM)</a> – FATEC Zona Sul</i>
+  <i>Estudante de <a href="https://www.fateczl.edu.br/arquivos/Grade%20DSM.pdf">Desenvolvimento de Software Multiplataforma </a> – FATEC Zona Sul</i>
   <br>
   <b>"O futuro não improvisa!"</b>
 </p>
@@ -8,13 +8,17 @@
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maxgodoydev-dotcom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 </p>
+
 ---
 
 ### 🚀 Sobre mim
 
 - 📚 **Formação:** Graduando em **DSM na FATEC Zona Sul**.
-- 🏗️ **Arquitetura & Dados:** Estudo da eficiência de bancos relacionais (**MariaDB, PostgreSQL, MySQL**) e modelagem estruturada (DER/UML).
+
+- 🏗️ **Arquitetura & Dados:** Estudo (**MariaDB, PostgreSQL, MySQL**) e modelagem estruturada (DER/UML).
+
 - 🌐 **Comunidade:** Idealizador e Co-líder do [**BASE LAB | FATEC**](https://discord.gg/EXmrdRcw), um ecossistema no Discord focado em mentorias, revisões técnicas e colaboração em projetos.
+
 - 🤝 **Soft Skills:** Comunicação assertiva, organização, proatividade e dinamismo em equipe.
 
 ---
