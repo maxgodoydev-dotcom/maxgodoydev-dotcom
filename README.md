@@ -1,21 +1,30 @@
-# Olá! Eu sou Max Godoy ⚡
+<p align="center">
+  <h1>🙋‍♂️ Olá, eu sou o Max Godoy!</h1>
+  <i>Estudante de Desenvolvimento de Software Multiplataforma – FATEC Zona Sul</i>
+  <br>
+  <b>"O futuro não improvisa!"</b>
+</p>
 
-### Desenvolvedor em Formação | Foco em Banco de Dados | Graduando na FATEC
-
-> *"Business-First, Code-Second."* Entendo que a tecnologia é a ponte para resolver problemas reais. Minha meta é construir uma base sólida em banco de dados e engenharia de software.
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maxgodoydev-dotcom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+</p>
 
 ---
 
-### 🎯 Perfil e Atuação
+### 🚀 Sobre mim
 
-* 🏗️ **Modelagem & Regras de Negócio:** Foco em mapear fluxos, organizar processos e estruturar a lógica sistêmica antes da implementação do código.
+- 📚 **Formação:** Graduando em **DSM na FATEC Zona Sul**.
+- 🏗️ **Arquitetura & Dados:** Estudo da eficiência de bancos relacionais (**MariaDB, PostgreSQL, MySQL**) e modelagem estruturada (DER/UML).
+- 🌐 **Comunidade:** Idealizador e Co-líder do [**BASE LAB | FATEC**](https://discord.gg/EXmrdRcw), um ecossistema no Discord focado em mentorias, revisões técnicas e colaboração em projetos.
+- 🤝 **Soft Skills:** Comunicação assertiva, organização, proatividade e dinamismo em equipe.
 
-* 🗄️ **Engenharia de Dados:** Estudo da eficiência e usabilidade de bancos relacionais (**MariaDB, PostgreSQL, MySQL**), garantindo integridade e performance via modelagem (DER/DR) e documentação (UML).
+---
 
-* 🚀 **Liderança Acadêmica:** Idealizador e Co-líder do **BASE LAB | FATEC**, um servidor no Discord estruturado para revisões técnicas, mentorias, reuniões de chamada (para troca de experiências) e colaboração em projetos entre estudantes.
+### 🎯 Foco e Atuação
 
-* 🤝 **Soft Skills:** Comunicação, organização, proatividade, trabalho em equipe e dinamismo.
-
+* **Modelagem & Regras de Negócio:** Especial interesse em mapear fluxos e estruturar a lógica sistêmica antes da implementação do código.
+* **Engenharia de Software:** Aplicação de conceitos de integridade e performance na camada de dados e processos de software.
+* **Business-First:** Foco em utilizar a tecnologia como ponte para resolver problemas reais de negócio.
 ---
 
 ### 🏆 Projetos em Destaque
@@ -29,14 +38,14 @@
 
 ### 💻 Stack de Desenvolvimento
 
-**Fundações, Dados e Linguagens:**
+**Dados e Backend:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,python,js,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,sqlite,supabase,php,py,js" />
 </p>
 
-**Ferramentas e Design:**
+**Ferramentas e Organização:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,figma,vscode,svg" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,discord,trello" /> 
 </p>
 
 ---
