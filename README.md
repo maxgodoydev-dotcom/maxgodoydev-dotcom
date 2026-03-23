@@ -40,7 +40,7 @@
 
 * 🎓 **InteliBolsas (Projeto Acadêmico):** Arquitetura e desenvolvimento de uma plataforma centralizada para gestão de bolsas de estudo, aplicando conceitos de CRUD e modelagem relacional (DER/DR) para garantir a integridade e escalabilidade dos dados dos usuários e instituições.[**▶️ Ver trecho da apresentação do projeto**](https://vimeo.com/1176302979)
 
-* 🔬 **BASE LAB | FATEC:** Idealizador e Co-líder de um ecossistema no Discord voltado ao desenvolvimento técnico e networking. Gestão de um hub que integra estudantes, egressos e mentoria de profissionais atuantes no mercado, focado em fortalecer a base lógica e compartilhar experiências reais da área da tecnologia.
+* 🔬 **BASE LAB | FATEC:** Idealizador e Co-líder [**BASE LAB | FATEC**](https://discord.gg/EXmrdRcw), um ecossistema no Discord voltado ao desenvolvimento técnico e networking. Gestão de um hub que integra estudantes, egressos e mentoria de profissionais atuantes no mercado, focado em fortalecer a base lógica e compartilhar experiências reais da área da tecnologia.
 ---
 
 ### 💻 Stack de Desenvolvimento
