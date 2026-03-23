@@ -38,7 +38,9 @@
 
 * 💇‍♀️ **Studio Patty Leão (Projeto Acadêmico):** Desenvolvimento de uma plataforma digital e de gestão focada em resolver necessidades operacionais como: atendimento, estoque, vitrine digital, caixa, notas fiscais e pagamentos, gerenciamento por B.I, usabilidade mobile e segurança de dados e informações.
 
-* 🎓 **InteliBolsas (Projeto Acadêmico):** Arquitetura e desenvolvimento de uma plataforma centralizada para gestão de bolsas de estudo, aplicando conceitos de CRUD e modelagem relacional (DER/DR) para garantir a integridade e escalabilidade dos dados dos usuários e instituições.[**▶️ Ver trecho da apresentação do projeto**](https://vimeo.com/1176302979)
+* 🎓 **InteliBolsas (Projeto Acadêmico):** Arquitetura e desenvolvimento de uma plataforma centralizada para gestão de bolsas de estudo, aplicando conceitos de CRUD e modelagem relacional (DER/DR) para garantir a integridade e escalabilidade dos dados dos usuários e instituições.
+[**💻 Ver repositório do projeto**](https://github.com/maxgodoydev-dotcom/inteliBolsas)  
+[**▶️ Ver trecho da apresentação do projeto**](https://vimeo.com/1176302979)
 
 * 🔬 **BASE LAB | FATEC:** Idealizador e Co-líder [**BASE LAB | FATEC**](https://discord.gg/EXmrdRcw), um ecossistema no Discord voltado ao desenvolvimento técnico e networking. Gestão de um hub que integra estudantes, egressos e mentoria de profissionais atuantes no mercado, focado em fortalecer a base lógica e compartilhar experiências reais da área da tecnologia.
 ---
