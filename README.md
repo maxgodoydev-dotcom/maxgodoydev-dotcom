@@ -19,7 +19,7 @@
 
 - 📚 **Formação:** Graduando em **DSM na FATEC**.
 
-- 🎯 **Objetivos:** MySQL, MariaDB, PostgreSQL e Python.
+- 🎯 **Objetivos:** Aprofundar conhecimentos em bancos de dados relacionais (MySQL, MariaDB, PostgreSQL) e desenvolvimento com Python.
 
 - 🌐 **Comunidade:** Idealizador e Co-líder do [**BASE LAB | FATEC**](https://discord.gg/EXmrdRcw), um ecossistema no Discord focado em aprendizado guiado, troca de conhecimento, mentorias e colaboração prática em projetos.
 
@@ -29,20 +29,28 @@
 
 ### 🎯 Foco Profissional
 
-* **Modelagem & Regras de Negócio:** Interesse em mapear fluxos e estruturar a lógica sistêmica antes da implementação do código.
-* **Engenharia de Software:** Aplicação de conceitos de integridade e performance na camada de dados e processos de software.
-* **Business-First:** Foco em utilizar a tecnologia como ponte para resolver problemas reais de negócio.
+* **Modelagem & Regras de Negócio:** Estruturação de fluxos e definição da lógica sistêmica antes da implementação, garantindo clareza e organização do software.
+
+* **Engenharia de Software:** Aplicação de boas práticas voltadas à integridade, organização e performance na construção de sistemas e na camada de dados.
+
+* **Business-First:** Utilização da tecnologia como solução para problemas reais, priorizando valor de negócio antes da implementação técnica.
+  
 ---
 
 ### 🏆 Projetos em Destaque
 
-* 💇‍♀️ **Studio Patty Leão (Projeto Acadêmico):** Desenvolvimento de uma plataforma digital e de gestão focada em resolver necessidades operacionais como: atendimento, estoque, vitrine digital, caixa, notas fiscais e pagamentos, gerenciamento por B.I, usabilidade mobile e segurança de dados e informações.
+* 🎓 **InteliBolsas (Projeto Acadêmico)**  
+Plataforma para gestão de bolsas de estudo, permitindo cadastro, gerenciamento e consulta de oportunidades por alunos e instituições. Desenvolvido com PHP e MySQL, aplicando conceitos de CRUD e modelagem relacional para garantir integridade e escalabilidade dos dados.  
+[💻 Ver repositório](https://github.com/maxgodoydev-dotcom/inteliBolsas)  
+[▶️ Ver apresentação](https://vimeo.com/1176302979)
 
-* 🎓 **InteliBolsas (Projeto Acadêmico):** Arquitetura e desenvolvimento de uma plataforma centralizada para gestão de bolsas de estudo, aplicando conceitos de CRUD e modelagem relacional (DER/DR) para garantir a integridade e escalabilidade dos dados dos usuários e instituições.
-[**💻 Ver repositório do projeto**](https://github.com/maxgodoydev-dotcom/inteliBolsas)  
-[**▶️ Ver trecho da apresentação do projeto**](https://vimeo.com/1176302979)
+* 💇‍♀️ **Studio Patty Leão (Em desenvolvimento)**  
+Sistema de gestão para salão de beleza, focado em atendimento, controle de estoque, caixa e vitrine digital. Projeto em evolução com foco na organização operacional e experiência do cliente.
 
-* 🔬 **BASE LAB | FATEC:** Idealizador e Co-líder [**BASE LAB | FATEC**](https://discord.gg/EXmrdRcw), um ecossistema no Discord voltado ao desenvolvimento técnico e networking. Gestão de um hub que integra estudantes, egressos e mentoria de profissionais atuantes no mercado, focado em fortalecer a base lógica e compartilhar experiências reais da área da tecnologia.
+* 🔬 **BASE LAB | FATEC**  
+Comunidade no Discord voltada ao desenvolvimento técnico, networking e troca de experiências. Atuação como idealizador e co-líder, promovendo colaboração entre estudantes e profissionais da área.  
+[🌐 Acessar comunidade](https://discord.gg/EXmrdRcw)
+
 ---
 
 ### 💻 Stack de Desenvolvimento
