@@ -21,7 +21,7 @@
 
 - 🎯 **Objetivos:** Aprofundar conhecimentos em bancos de dados relacionais (MySQL, MariaDB, PostgreSQL) e desenvolvimento com Python.
 
-- 🌐 **Comunidade:** Idealizador e Co-líder do [**BASE LAB | FATEC**](https://discord.gg/EXmrdRcw), um ecossistema no Discord focado em aprendizado guiado, troca de conhecimento, mentorias e colaboração prática em projetos.
+- 🌐 **Comunidade:** Idealizador e líder do [**BASE LAB | FATEC**](https://discord.gg/EXmrdRcw), um ecossistema no Discord focado em aprendizado guiado, troca de conhecimento, mentorias e colaboração prática em projetos.
 
 - 🤝 **Soft Skills:** Comunicação, organização, trabalho em equipe, colaboração, proatividade e dinamismo.
 
@@ -48,7 +48,7 @@ Plataforma para gestão de bolsas de estudo, permitindo cadastro, gerenciamento 
 Sistema de gestão para salão de beleza, focado em atendimento, controle de estoque, caixa e vitrine digital. Projeto em evolução com foco na organização operacional e experiência do cliente.
 
 * 🔬 **BASE LAB | FATEC**  
-Comunidade no Discord voltada ao desenvolvimento técnico, networking e troca de experiências. Atuação como idealizador e co-líder, promovendo colaboração entre estudantes e profissionais da área.  
+Comunidade no Discord voltada ao desenvolvimento técnico, networking e troca de experiências. Atuação como idealizador e líder, promovendo colaboração entre estudantes e profissionais da área.  
 [🌐 Acessar comunidade](https://discord.gg/EXmrdRcw)
 
 ---
