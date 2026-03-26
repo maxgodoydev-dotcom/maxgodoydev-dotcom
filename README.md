@@ -54,10 +54,10 @@ Plataforma para gestão de bolsas de estudo, permitindo cadastro, controle e con
 💇‍♀️ **Studio Patty Leão (Em desenvolvimento)**  
 Sistema de gestão para salão de beleza com foco em controle financeiro e operacional.
 
-* Controle de caixa (entrada/saída)
-* Registro de vendas com ou sem cliente cadastrado
-* Estrutura preparada para análise de lucro/prejuízo
-* Modelagem voltada para uso real do negócio
+💰 Controle de caixa (entrada/saída)
+🧾 Registro de vendas com ou sem cliente cadastrado
+📊 Estrutura preparada para análise de lucro/prejuízo
+🧠 Modelagem voltada para uso real do negócio
 
 ---
 
@@ -67,7 +67,7 @@ Comunidade técnica criada para destravar lógica de programação e promover ev
 * 👥 +15 participantes ativos
 * 📅 Encontros semanais
 * 🎯 Foco em lógica, estruturação e resolução de problemas
-* 🤝 Participação de desenvolvedor fullstack como mentor
+* 🤝 Participação de desenvolvedores como mentoria
 
 Atuação como idealizador e líder, organizando encontros, direcionando discussões e estruturando o aprendizado coletivo.
 
