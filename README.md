@@ -39,15 +39,17 @@
 
 ### 🏆 Projetos em Destaque
 
-* 🎓 **InteliBolsas (Projeto Acadêmico)**  
+🎓 **InteliBolsas (Projeto Acadêmico)**  
 Plataforma para gestão de bolsas de estudo, permitindo cadastro, controle e consulta de oportunidades.
 
-- Estruturação de banco de dados relacional (MySQL)
-- Aplicação de regras de negócio para integridade dos dados
-- Desenvolvimento backend com PHP
+* Estruturação de banco de dados relacional (MySQL)
+* Aplicação de regras de negócio para integridade dos dados
+* Desenvolvimento backend com PHP
 
 [💻 Ver repositório](https://github.com/maxgodoydev-dotcom/inteliBolsas)  
 [▶️ Ver apresentação](https://vimeo.com/1176302979)
+
+---
 
 * 💇‍♀️ **Studio Patty Leão (Em desenvolvimento)**  
 Sistema de gestão para salão de beleza com foco em controle financeiro e operacional.
@@ -57,7 +59,9 @@ Sistema de gestão para salão de beleza com foco em controle financeiro e opera
 - Estrutura preparada para análise de lucro/prejuízo
 - Modelagem voltada para uso real do negócio
 
-* 🔬 **BASE LAB | FATEC**  
+---
+
+🔬 **BASE LAB | FATEC**  
 Comunidade técnica criada para destravar lógica de programação e promover evolução prática entre estudantes.
 
 👥 +15 participantes ativos
