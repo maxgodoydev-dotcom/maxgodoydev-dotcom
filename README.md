@@ -39,7 +39,7 @@
 
 ### 🏆 Projetos em Destaque
 
-1 - 🎓 **InteliBolsas (Projeto Acadêmico)**  
+🎓 **InteliBolsas (Projeto Acadêmico)**
 Plataforma para gestão de bolsas de estudo, permitindo cadastro, controle e consulta de oportunidades.
 
 * Estruturação de banco de dados relacional (MySQL)
@@ -51,7 +51,7 @@ Plataforma para gestão de bolsas de estudo, permitindo cadastro, controle e con
 
 ---
 
-2 - 💇‍♀️ **Studio Patty Leão (Em desenvolvimento)**  
+💇‍♀️ **Studio Patty Leão (Em desenvolvimento)**  
 Sistema de gestão para salão de beleza com foco em controle financeiro e operacional.
 
 * Controle de caixa (entrada/saída)
@@ -61,7 +61,7 @@ Sistema de gestão para salão de beleza com foco em controle financeiro e opera
 
 ---
 
-3 -🔬 **BASE LAB | FATEC**  
+🔬 **BASE LAB | FATEC**  
 Comunidade técnica criada para destravar lógica de programação e promover evolução prática entre estudantes.
 
 * 👥 +15 participantes ativos
