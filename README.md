@@ -56,9 +56,9 @@ Plataforma para gestão de bolsas de estudo, permitindo cadastro, controle e con
 
 Sistema de gestão para salão de beleza com foco em controle financeiro e operacional.
 
-*💰 Controle de caixa (entrada/saída)
-*🧾 Registro de vendas com ou sem cliente cadastrado
-*📊 Estrutura preparada para análise de lucro/prejuízo
+* 💰 Controle de caixa (entrada/saída)
+* 🧾 Registro de vendas com ou sem cliente cadastrado
+* 📊 Estrutura preparada para análise de lucro/prejuízo
 
 ---
 
