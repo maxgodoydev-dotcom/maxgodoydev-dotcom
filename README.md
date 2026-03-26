@@ -59,7 +59,6 @@ Sistema de gestão para salão de beleza com foco em controle financeiro e opera
 *💰 Controle de caixa (entrada/saída)
 *🧾 Registro de vendas com ou sem cliente cadastrado
 *📊 Estrutura preparada para análise de lucro/prejuízo
-*🧠 Modelagem voltada para uso real do negócio
 
 ---
 
