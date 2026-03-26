@@ -40,15 +40,32 @@
 ### 🏆 Projetos em Destaque
 
 * 🎓 **InteliBolsas (Projeto Acadêmico)**  
-Plataforma para gestão de bolsas de estudo, permitindo cadastro, gerenciamento e consulta de oportunidades por alunos e instituições. Desenvolvido com PHP e MySQL, aplicando conceitos de CRUD e modelagem relacional para garantir integridade e escalabilidade dos dados.  
+Plataforma para gestão de bolsas de estudo, permitindo cadastro, controle e consulta de oportunidades.
+
+- Estruturação de banco de dados relacional (MySQL)
+- Aplicação de regras de negócio para integridade dos dados
+- Desenvolvimento backend com PHP
+
 [💻 Ver repositório](https://github.com/maxgodoydev-dotcom/inteliBolsas)  
 [▶️ Ver apresentação](https://vimeo.com/1176302979)
 
 * 💇‍♀️ **Studio Patty Leão (Em desenvolvimento)**  
-Sistema de gestão para salão de beleza, focado em atendimento, controle de estoque, caixa e vitrine digital. Projeto em evolução com foco na organização operacional e experiência do cliente.
+Sistema de gestão para salão de beleza com foco em controle financeiro e operacional.
+
+- Controle de caixa (entrada/saída)
+- Registro de vendas com ou sem cliente cadastrado
+- Estrutura preparada para análise de lucro/prejuízo
+- Modelagem voltada para uso real do negócio
 
 * 🔬 **BASE LAB | FATEC**  
-Comunidade no Discord voltada ao desenvolvimento técnico, networking e troca de experiências. Atuação como idealizador e líder, promovendo colaboração entre estudantes e profissionais da área.  
+Comunidade técnica criada para destravar lógica de programação e promover evolução prática entre estudantes.
+
+👥 +15 participantes ativos
+📅 Encontros semanais
+🎯 Foco em lógica, estruturação e resolução de problemas
+🤝 Participação de desenvolvedor fullstack como mentor
+
+Atuação como idealizador e líder, organizando encontros, direcionando discussões e estruturando o aprendizado coletivo.
 [🌐 Acessar comunidade](https://discord.gg/EXmrdRcw)
 
 ---
