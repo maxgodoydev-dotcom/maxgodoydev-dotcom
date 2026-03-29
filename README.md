@@ -17,13 +17,13 @@
 
 ### 🚀 Sobre mim
 
-- 📚 **Formação:** Graduando em **DSM na FATEC**.
+- 📚 **Formação:** Graduando em Desenvolvimento de Software Multiplataforma (DSM) pela FATEC.
 
-- 🎯 **Objetivos:** Aprofundar conhecimentos em bancos de dados relacionais (MySQL, MariaDB, PostgreSQL) e desenvolvimento com Python.
+- ⚙️ **Foco atual:** Desenvolvimento backend e estruturação de sistemas, com ênfase em bancos de dados relacionais (MySQL, MariaDB, PostgreSQL) e construção de aplicações com Python.
 
-- 🌐 **Comunidade:** Idealizador e líder do [**BASE LAB | FATEC**](https://discord.gg/EXmrdRcw), um ecossistema no Discord focado em aprendizado guiado, troca de conhecimento, mentorias e colaboração prática em projetos.
+- 🌐 **Comunidade:** Idealizador e líder do [**BASE LAB | FATEC**](https://discord.gg/EXmrdRcw), um ecossistema voltado para aprendizado colaborativo, mentorias e desenvolvimento prático de projetos.
 
-- 🤝 **Soft Skills:** Comunicação, organização, trabalho em equipe, colaboração, proatividade e dinamismo.
+- 🧠 **Perfil profissional:** Organização de sistemas, comunicação clara, trabalho em equipe e proatividade na resolução de problemas.
 
 ---
 
