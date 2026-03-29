@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Engenharia%20de%20Dados&fontSize=30&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Backend%20e%20Arquitetura%20de%20Sistemas&fontSize=30&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
